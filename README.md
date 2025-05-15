@@ -1,7 +1,14 @@
 <div align="center">
 
 # 💫 About Me
-Full-Stack & AI Developer <br>
+
+
+<samp>
+    <strong>– JUNGI KIM –</strong>
+    <br/>
+    Web & AI Developer
+</samp>
+
 <br> ![](https://komarev.com/ghpvc/?username=rwr9857&style=flat) <br> <br>
 
 # 💻 Tech Stack
